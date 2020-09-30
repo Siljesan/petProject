@@ -1,0 +1,30 @@
+body {
+  font-family: "montserrat", sans-serif;
+}
+.menu {
+  display: inline-block;
+}
+.menu--item {
+  display: inline block;
+}
+main {
+  background-image: url(img/Rectangle\ 1.png);
+}
+h1 {
+  font-style: thin;
+}
+.bold {
+  font-style: bold;
+}
+.cta {
+  border: white;
+  background-color: white;
+  color: #ff0073;
+  margin-top: 200px;
+  margin-left: 80px;
+  margin-right: 1300px;
+  height: 40px;
+  width: 100px;
+  text-align: center;
+  border-radius: 30%;
+}
